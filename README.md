@@ -1,2 +1,2 @@
 # cis460_cg
-coin gecko project
+first coin gecko project
